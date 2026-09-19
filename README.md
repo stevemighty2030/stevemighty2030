@@ -9,22 +9,16 @@ A passionate DevOps engineer from Kenya 🇰🇪.
 ### Software, AI Development &Machine Deployment. 
 - **Backend: Java(SpringBoot) & Python (FastApi, Flask), Frontend: Javascript (React & NextJs), Langchain, RAG, Pinecore,   Hugging Face, Mlflow, ClaudeAi,**  
 - **Scripting**(Bash & Python)
-- **Microservices** (SpringBoot3, Apache Kafka, Istio, WS02)
-### DevOps
-- **Container Orchestration** Kubernetes
-- **Containerisation** Docker
-- Helm
-- **Ticketing** (Kibana & Jira)
-- **Iac** (Terraform)
-- **Shell Scripting**( Python & Bash)
-- **CI/CD** (Jenkin, CloudBuild & Gitlab)
-- **Service Mesh** (Istio)
-- **Configuration MAnagaement**(Ansible)
-- **GitOps**(ArgoCD)
-- **GCP**(CloudBuild, GKE, CloudRun, CloudSQL)
-- **AWS** (EC2,S3, EKS,Route53, VPC, IAM, CodeBuild, CodePipeline, & Code Commit)
-- **Apllication Performance Monitoring** (Prometheus, Grafana & New Relic)
-- **Logs** (ELK)
+### Containers & Container Orchestrations. 
+### GitOps & Continuous Integration  CI/CD . 
+### Observability, Infrastructure as Code &Configuration Management.
+### DevSecOps.
+- **SCA**(SONARQUBE & Python)
+- **SAST**(Synk, Cherkmarx & Trivy)
+- **DAST**(OWASP ZAP & Microsoft Sentinel)
+### Enterprise Integration .
+- **API GATEWAYS**(WSO2, Mulesoft Anypoint & KONG)
+- **Messaging**(Apache Active MQ, Artemis, IBM MQ & Apache Camel)
 
 
 👯 I’m looking to collaborate on **DevOps And Spring Boot Projects**.
