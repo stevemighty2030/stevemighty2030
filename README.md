@@ -3,7 +3,7 @@
 I'm **Stephen Munyao Wambua**,
 A passionate DevOps engineer from Kenya 🇰🇪.
 
-🌱 Lets Connect over Linkedin [Nairobi DevOps Community](https://www.devs.info.ke/pages/nairobidevops)
+🌱 Lets Connect over[Linkedin](https://www.linkedin.com/in/stephen-wambua-pro/)
 
 ## Tech Stack
 ### Software Development
