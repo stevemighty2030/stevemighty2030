@@ -6,8 +6,8 @@ A passionate DevOps engineer from Kenya 🇰🇪.
 🌱 Lets Connect over[Linkedin](https://www.linkedin.com/in/stephen-wambua-pro/)
 
 ## Tech Stack
-### Software Development
-- **Back-end Development** (Java, python)
+### Software, AI Development &Machine Deployment. 
+- **Backend: Java(SpringBoot) & Python (FastApi, Flask), Frontend: Javascript (React & NextJs), Langchain, RAG, Pinecore, Hugging Face, Mlflow, ClaudeAi,  
 - **Scripting**(Bash & Python)
 - **Microservices** (SpringBoot3, Apache Kafka, Istio, WS02)
 ### DevOps
@@ -25,7 +25,7 @@ A passionate DevOps engineer from Kenya 🇰🇪.
 - **AWS** (EC2,S3, EKS,Route53, VPC, IAM, CodeBuild, CodePipeline, & Code Commit)
 - **Apllication Performance Monitoring** (Prometheus, Grafana & New Relic)
 - **Logs** (ELK)
-  
+
 
 👯 I’m looking to collaborate on **DevOps And Spring Boot Projects**.
 
