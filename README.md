@@ -7,7 +7,7 @@ A passionate DevOps engineer from Kenya 🇰🇪.
 
 ## Tech Stack
 ### Software, AI Development &Machine Deployment. 
-- **Backend: Java(SpringBoot) & Python (FastApi, Flask), Frontend: Javascript (React & NextJs), Langchain, RAG, Pinecore, Hugging Face, Mlflow, ClaudeAi,  
+- **Backend: Java(SpringBoot) & Python (FastApi, Flask), Frontend: Javascript (React & NextJs), Langchain, RAG, Pinecore,   Hugging Face, Mlflow, ClaudeAi,**  
 - **Scripting**(Bash & Python)
 - **Microservices** (SpringBoot3, Apache Kafka, Istio, WS02)
 ### DevOps
