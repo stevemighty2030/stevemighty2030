@@ -7,9 +7,9 @@ A passionate DevOps engineer from Kenya 🇰🇪.
 
 ## Tech Stack
 ### Software Development
-- **Back-end Development** (Java, Golang)
+- **Back-end Development** (Java, python)
 - **Scripting**(Bash & Python)
-- **Microservices** (SpringBoot3, Apache Kafka, Istio)
+- **Microservices** (SpringBoot3, Apache Kafka, Istio, WS02)
 ### DevOps
 - **Container Orchestration** Kubernetes
 - **Containerisation** Docker
