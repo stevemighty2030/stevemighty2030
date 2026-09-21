@@ -2,6 +2,8 @@
 
 I'm **Stephen Munyao Wambua**,
 A passionate DevOps engineer from Kenya 🇰🇪.
+my other GitHub Account:
+[GitHub](https://github.com/steve2030)
 
 🌱 Lets Connect over[Linkedin](https://www.linkedin.com/in/stephen-wambua-pro/)
 
